@@ -22,7 +22,7 @@ model:
   num_query_token: 32
 
   # path to Vicuna checkpoint
-  llm_model: "./llm/vicuna-7b"
+  llm_model: "/apdcephfs_cq2/share_1615878/scene_aigc/vicuna-7b"
 
   # generation configs
   prompt: ""
